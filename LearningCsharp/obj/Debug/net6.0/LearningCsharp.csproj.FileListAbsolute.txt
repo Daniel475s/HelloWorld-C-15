@@ -1,0 +1,15 @@
+C:\Dev\C# .NET\LearningCsharp\LearningCsharp\bin\Debug\net6.0\LearningCsharp.exe
+C:\Dev\C# .NET\LearningCsharp\LearningCsharp\bin\Debug\net6.0\LearningCsharp.deps.json
+C:\Dev\C# .NET\LearningCsharp\LearningCsharp\bin\Debug\net6.0\LearningCsharp.runtimeconfig.json
+C:\Dev\C# .NET\LearningCsharp\LearningCsharp\bin\Debug\net6.0\LearningCsharp.dll
+C:\Dev\C# .NET\LearningCsharp\LearningCsharp\bin\Debug\net6.0\LearningCsharp.pdb
+C:\Dev\C# .NET\LearningCsharp\LearningCsharp\obj\Debug\net6.0\LearningCsharp.csproj.AssemblyReference.cache
+C:\Dev\C# .NET\LearningCsharp\LearningCsharp\obj\Debug\net6.0\LearningCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C# .NET\LearningCsharp\LearningCsharp\obj\Debug\net6.0\LearningCsharp.AssemblyInfoInputs.cache
+C:\Dev\C# .NET\LearningCsharp\LearningCsharp\obj\Debug\net6.0\LearningCsharp.AssemblyInfo.cs
+C:\Dev\C# .NET\LearningCsharp\LearningCsharp\obj\Debug\net6.0\LearningCsharp.csproj.CoreCompileInputs.cache
+C:\Dev\C# .NET\LearningCsharp\LearningCsharp\obj\Debug\net6.0\LearningCsharp.dll
+C:\Dev\C# .NET\LearningCsharp\LearningCsharp\obj\Debug\net6.0\refint\LearningCsharp.dll
+C:\Dev\C# .NET\LearningCsharp\LearningCsharp\obj\Debug\net6.0\LearningCsharp.pdb
+C:\Dev\C# .NET\LearningCsharp\LearningCsharp\obj\Debug\net6.0\LearningCsharp.genruntimeconfig.cache
+C:\Dev\C# .NET\LearningCsharp\LearningCsharp\obj\Debug\net6.0\ref\LearningCsharp.dll
